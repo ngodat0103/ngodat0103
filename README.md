@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am in my final year, specializing in computer networks and communications at the University of Information Technology<br>👨‍💻 I have a strong passion for developing Java backend applications and specializing in DevOps.<br>🍵
+🔭 I am in my final year, specializing in computer networks and communications at the University of Information Technology<br>👨‍💻 I have a strong passion for developing Java backend applications and have a growing interest in DevOps.<br>🍵
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ngodat0103) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ngô-đạt-248646284) 
