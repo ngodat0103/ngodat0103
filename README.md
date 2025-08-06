@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭I am in my final year, specializing in computer networks and communications at the University of Information Technology<br>👨‍💻 I have a growing interest in DevOps.
+🔭Final-year Computer Networks student @ UIT | DevOps enthusiast
+
+👨‍💻 Currently breaking things to learn how not to.
 
 
 ## 🌐 Socials:
