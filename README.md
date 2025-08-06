@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I am in my final year, specializing in computer networks and communications at the University of Information Technology<br>👨‍💻 I have a strong passion for developing Java backend applications and have a growing interest in DevOps.
+🔭I am in my final year, specializing in computer networks and communications at the University of Information Technology<br>👨‍💻 I have a growing interest in DevOps.
 
 
 ## 🌐 Socials:
